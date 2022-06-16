@@ -1,4 +1,4 @@
-Hi, I’m @Samuelchazy
+Hi, I’m @Samuelchazy.
 I’m interested in Data Science & Artificial Intelligence.
 I’m looking to collaborate and propose my services in Data Science & Machine Learning.
 You can reach me at samuel.chazy@gmail.com
