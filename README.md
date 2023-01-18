@@ -1,4 +1,4 @@
-# 💫About Me :
+# About Me :
 • Being a data scientist, I take deep dives into the data world.
 • I have a post-graduate diploma in Data Science & a MSc in Artificial Intelligence.
 • I like to uncover patterns that others can’t see.
