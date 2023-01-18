@@ -1,10 +1,10 @@
 # About Me :
-• Being a data scientist, I take deep dives into the data world.
-• I have a post-graduate diploma in Data Science & a MSc in Artificial Intelligence.
-• I like to uncover patterns that others can’t see.
-• I build machine learning models and deep neural network models.
-• I analyze information in the data to predict future probabilities.
-• I assist companies in improving their efficiency and performance.
+1• Being a data scientist, I take deep dives into the data world.
+2• I have a post-graduate diploma in Data Science & a MSc in Artificial Intelligence.
+3• I like to uncover patterns that others can’t see.
+4• I build machine learning models and deep neural network models.
+5• I analyze information in the data to predict future probabilities.
+6• I assist companies in improving their efficiency and performance.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/samuelchazy/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/samuelchazy) 
